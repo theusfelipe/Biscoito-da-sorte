@@ -131,6 +131,7 @@ button {
 button:hover {
   background: #996011;
   transition: 500ms;
+  cursor: pointer;
 }
 
 @keyframes toFadeIn {
