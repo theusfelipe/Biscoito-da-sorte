@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img alt="Biscoito da sorte" src=".github/preview.mp4" width="100%">
+  <img alt="Biscoito da sorte" src=".github/preview.gif" width="100%">
 <p/>
 
 ## Biscoito da sorte 
